@@ -1,0 +1,42 @@
+LADO DEL VENDEDOR
+
+Epics
+Gestión de Productos
+Gestión de Pedidos
+Reportes y Análisis
+
+Stories y Tareas
+Epic 1: Gestión de Productos
+  Story 1.1: Añadir nuevos productos
+    Tarea: Crear formulario para añadir nuevos productos
+    Tarea: Validar datos del formulario
+    Tarea: Guardar producto en la base de datos
+    Tarea: Mostrar mensaje de éxito/error
+  Story 1.2: Editar productos existentes
+    Tarea: Mostrar lista de productos existentes
+    Tarea: Seleccionar producto a editar
+    Tarea: Actualizar datos del producto
+    Tarea: Guardar cambios en la base de datos
+  Story 1.3: Eliminar productos
+    Tarea: Seleccionar producto a eliminar de la lista
+    Tarea: Confirmar eliminación
+    Tarea: Eliminar producto de la base de datos
+
+
+Epic 2: Gestión de Pedidos
+Story 2.1: Ver lista de pedidos
+  Tarea: Mostrar lista de todos los pedidos
+  Tarea: Filtrar pedidos por estado (en proceso, completado, etc.)
+Story 2.2: Cambiar estado de un pedido
+  Tarea: Seleccionar pedido de la lista
+  Tarea: Cambiar estado del pedido
+  Tarea: Actualizar estado en la base de datos
+
+
+Epic 3: Reportes y Análisis
+  Story 3.1: Ver ventas totales
+    Tarea: Mostrar ventas totales por día/semana/mes
+    Tarea: Generar gráfico de ventas
+  Story 3.2: Análisis de productos más vendidos
+    Tarea: Mostrar lista de productos más vendidos
+    Tarea: Generar gráfico de productos más vendidos

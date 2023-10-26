@@ -1,0 +1,48 @@
+LADO DEL COMPRADOR
+
+Epics
+  Página de Inicio
+  Listado de Productos
+  Detalle del Producto
+  Carrito de Compras
+  Proceso de Pago
+  Perfil de Usuario
+  Stories y Tareas
+
+Epic 1: Página de Inicio
+  Story 1: Mostrar un banner principal
+    Task: Diseñar el banner
+    Task: Integrar el banner en la página
+  Story 2: Mostrar una lista de categorías
+    Task: Obtener categorías desde el backend (mock o real)
+    Task: Mostrar las categorías en el frontend
+
+Epic 2: Listado de Productos
+  Story 1: Mostrar productos por categoría
+    Task: Obtener productos por categoría desde el backend
+    Task: Crear tarjetas de productos
+  Story 2: Implementar paginación
+    Task: Añadir paginación en el backend
+    Task: Implementar paginación en el frontend
+
+Epic 3: Detalle del Producto
+  Story 1: Mostrar información detallada del producto
+    Task: Obtener información del producto desde el backend
+    Task: Mostrar la información en una página de detalle
+
+Epic 4: Carrito de Compras
+  Story 1: Añadir productos al carrito
+    Task: Implementar botón para añadir al carrito
+    Task: Mostrar un resumen del carrito
+  Story 2: Eliminar productos del carrito
+    Task: Implementar botón para eliminar del carrito
+
+Epic 5: Proceso de Pago
+  Story 1: Checkout
+    Task: Diseñar formulario de checkout
+    Task: Implementar pasarela de pago (mock o real)
+
+Epic 6: Perfil de Usuario
+  Story 1: Autenticación de usuarios
+    Task: Implementar inicio de sesión y registro
+    Task: Mostrar información del perfil de usuario

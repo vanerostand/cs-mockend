@@ -1,0 +1,27 @@
+LADO DEL ADMIN
+
+Epics
+Gestión de Categorías
+Gestión de Usuarios y Roles
+
+Epic 1: Gestión de Categorías
+  Story 1.1: Añadir nuevas categorías
+    Tarea: Crear formulario para añadir nuevas categorías
+    Tarea: Validar datos del formulario
+    Tarea: Guardar categoría en la base de datos
+  Story 1.2: Editar categorías existentes
+    Tarea: Mostrar lista de categorías existentes
+    Tarea: Seleccionar categoría a editar
+    Tarea: Actualizar datos de la categoría
+    Tarea: Guardar cambios en la base de datos
+
+
+Epic 2: Gestión de Usuarios y Roles
+  Story 2.1: Añadir nuevos usuarios
+    Tarea: Crear formulario para registrar nuevos usuarios
+    Tarea: Asignar roles a nuevos usuarios
+    Tarea: Guardar usuario en la base de datos
+  Story 2.2: Cambiar roles de usuarios existentes
+    Tarea: Mostrar lista de usuarios
+    Tarea: Seleccionar usuario
+    Tarea: Cambiar rol del usuario seleccionado
